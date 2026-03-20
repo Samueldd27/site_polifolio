@@ -1,7 +1,4 @@
-<DOCTYPER html>
-<html lang="en">
-<style>
-   @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -29,16 +26,3 @@
     header div a:hover{
         color:green;
         transition: color 700ms;}
-</style>
- <head>
-<title>Samuel</title>
-</head>
- <body>
-    <header>
-<div class="links">
-     <a href="https://github.com/Samueldd27">github</a>
-     <a href="https://www.instagram.com/">instagram</a>
-</div>
-    </header>
- </body>
-</html>
