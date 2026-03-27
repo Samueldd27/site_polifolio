@@ -5,24 +5,23 @@
     border: 0;
 }
        body{
-        background-color: #ffffff;}
+        background-color: #462d0f;}
     
     header {
         padding: 32px;
         border-bottom: 1px solid #ffffff;
-        background-color: 000000;
+        background-color:#000000;
     }
     header div {
         text-align:center; 
 }
     header div a{
-        color: rgb(255, 255, 255);
+        color: rgb(253, 253, 253);
         font-size: 20px;
         line-height: 30px;
         margin: 0 16px;
         text-decoration: none;
-        font-family: 'Roboto';
-    }
+        font-family: 'Roboto';}
     header div a:hover{
         color:green;
         transition: color 700ms;}
