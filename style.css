@@ -5,18 +5,18 @@
     border: 0;
 }
        body{
-        background-color: #462d0f;}
+        background-color: #ffffff;}
     
     header {
         padding: 32px;
         border-bottom: 1px solid #ffffff;
-        background-color:#000000;
+        background-color:#636363;
     }
     header div {
         text-align:center; 
 }
     header div a{
-        color: rgb(253, 253, 253);
+        color: rgb(0, 0, 0);
         font-size: 20px;
         line-height: 30px;
         margin: 0 16px;
@@ -25,3 +25,30 @@
     header div a:hover{
         color:green;
         transition: color 700ms;}
+        #box{
+            text-align: center;
+            padding: 32px;
+        }
+        #box igm{
+            border-radius: 50%;
+            border: 5px rgb(0, 0, 0);
+            margin-bottom: 32px;
+        }
+        #box h1{
+            font-size: 45px;
+            line-height: 52px;
+            font-weight: bold;
+        }
+        #box h2{
+            font-size: 24px;
+            line-height: 34px;
+            font-weight: normal;
+            margin-top: 8px;
+            opacity: 0.8;
+        }
+        #box p{
+            max-width: 500px;
+            margin: 32px auto;
+            font-size: 24px;
+            line-height: 34px;
+        }
